@@ -1,4 +1,4 @@
-# projeto_Mc
+# projeto_Cr
 
 Base (*starter*) para aplicações web **full-stack** com **Next.js 16 (App Router)**, **React 19**, **TypeScript** e **Tailwind CSS 4**, seguindo a abordagem *Server Components First*.
 
@@ -71,7 +71,7 @@ npm run type-check && npm run lint
 ## Estrutura de pastas
 
 ```
-projeto_Mc/
+projeto_Cr/
 ├── app/                # Rotas (App Router), agrupadas por (grupo)/
 │   ├── layout.tsx      # Layout raiz (fontes Geist)
 │   ├── page.tsx        # Página inicial

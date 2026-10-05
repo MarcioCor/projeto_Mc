@@ -1,0 +1,2 @@
+export const formControlClassName =
+  "block w-full rounded-lg border border-stone-300 bg-white px-3.5 py-2.5 text-base text-stone-900 shadow-xs transition-colors placeholder:text-stone-400 focus:border-amber-500 focus:outline-none focus-visible:ring-3 focus-visible:ring-amber-500/30 disabled:cursor-not-allowed disabled:opacity-60 aria-invalid:border-red-500 aria-invalid:focus-visible:ring-red-500/30 dark:border-stone-700 dark:bg-stone-900 dark:text-stone-50 dark:placeholder:text-stone-500";
