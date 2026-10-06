@@ -14,6 +14,8 @@ const eslintConfig = defineConfig([
     "next-env.d.ts",
     // Claude Code hooks (Node scripts, not app code):
     ".claude/**",
+    // Agent skills (third-party Node scripts, not app code):
+    ".agents/**",
   ]),
 ]);
 
